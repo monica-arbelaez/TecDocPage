@@ -37,7 +37,7 @@ se define que tenga una posicion flexible */
 #navbar  h1{
     font-size: 30px;
     background-color: white;
-    padding: 15px;
+    padding: 20px;
     margin: auto;
 }
 /* se organiza el menú */
@@ -95,6 +95,7 @@ se define que tenga una posicion flexible */
 }
 header{
     color: black;
+    font-size: 40px;
 }
 @media (max-width: 700px){
     body{
